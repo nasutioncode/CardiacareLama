@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "498736114763",
+    "firebase_url": "https://cardiacare-ghuroba.firebaseio.com",
+    "project_id": "cardiacare-ghuroba",
+    "storage_bucket": "cardiacare-ghuroba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498736114763:android:d2a4851b0e3b65daaff1ce",
+        "android_client_info": {
+          "package_name": "com.example.loginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498736114763-bvehne3fq7gdm308n6plqeoj61henbps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginregister",
+            "certificate_hash": "1d3457b3ce8b928dab569596b4f815d786baae35"
+          }
+        },
+        {
+          "client_id": "498736114763-2rkm46feih65r7r87kr7h7efro5utruo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrTRVzVRIV7s3VW87E5aFD5rggJnC0UlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498736114763-2rkm46feih65r7r87kr7h7efro5utruo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498736114763:android:4dadc6d0d2b38be4aff1ce",
+        "android_client_info": {
+          "package_name": "com.nasution.cardiacare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498736114763-2ju5la0f5571fvka7a03h6ce34u3jhjc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nasution.cardiacare",
+            "certificate_hash": "c6f74ef0a58e0f7d01516be58d7cfbd4a6406a07"
+          }
+        },
+        {
+          "client_id": "498736114763-2rkm46feih65r7r87kr7h7efro5utruo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrTRVzVRIV7s3VW87E5aFD5rggJnC0UlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498736114763-2rkm46feih65r7r87kr7h7efro5utruo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
