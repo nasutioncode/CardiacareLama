@@ -4,5 +4,23 @@
     <color name="colorPrimaryDark">#C74444</color>
     <color name="colorAccent">#AF5151</color>
 
-    <color name="black_overlay">#66000000</color>
+    <color name="slideIntroduction">#FFE8E6</color>
+
+<!--    <color name="black_overlay">#66000000</color>-->
+
+
+
+
+    <!-- colors for button style -->
+
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+
+    <!-- colors for tab and screent text -->
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
 </resources>

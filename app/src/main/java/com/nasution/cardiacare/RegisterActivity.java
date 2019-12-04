@@ -64,7 +64,7 @@ public class RegisterActivity extends AppCompatActivity {
                             if (!task.isSuccessful()) {
                                 Toast.makeText(RegisterActivity.this, "Register Unsuccessfull !, Please Try Again", Toast.LENGTH_SHORT).show();
                             }else {
-                                startActivity(new Intent(RegisterActivity.this, HomeActivity.class));
+                                startActivity(new Intent(RegisterActivity.this, CreateFormJantungActivity.class));
                             }
                         }
                     });

@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
                 FirebaseUser mFirebaseUser = mFirebaseAuth.getCurrentUser();
                 if (mFirebaseUser != null ) {
                     Toast.makeText(MainActivity.this, "You Are Loged In", Toast.LENGTH_SHORT).show();
-                    Intent intent = new Intent(MainActivity.this, HomeActivity.class);
+                    Intent intent = new Intent(MainActivity.this, CreateFormJantungActivity.class);
                     startActivity(intent);
                 }else {
                     Toast.makeText(MainActivity.this, "Welcome, Please Login", Toast.LENGTH_SHORT).show();
@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
                             if (!task.isSuccessful()) {
                                 Toast.makeText(MainActivity.this, "Email and Password not Registered", Toast.LENGTH_SHORT).show();
                             }else {
-                                Intent inTohome = new Intent(MainActivity.this, HomeActivity.class);
+                                Intent inTohome = new Intent(MainActivity.this, CreateFormJantungActivity.class);
                                 startActivity(inTohome);
                             }
                         }
