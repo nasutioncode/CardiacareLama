@@ -1,7 +1,31 @@
 <resources>
     <string name="app_name">Cardiacare</string>
 
+    <string-array name="labels_kolesterol">
+        <item>4 = 154,44 mg/dL</item>
+        <item>5 = 193,05 mg/dL</item>
+        <item>6 = 231,66 mg/dL</item>
+        <item>7 = 270,27 mg/dL</item>
+        <item>8 = 308,88 mg/dL</item>
+    </string-array>
+
     <string name="title_activity_fullscreen">FullscreenActivity</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_formJantung">Cek Potensi Risiko Penyakit Jantung</string>
+    <string name="label_formDate">Tanggal</string>
+    <string name="date_formJantung">DD/MM/YYYYY</string>
+    <string name="label_diabetes">Apakah anda terkena diabetes?</string>
+    <string name="radio_diabetesYes">IYA</string>
+    <string name="radio_diabetesNo">TIDAK</string>
+    <string name="label_rokok">Apakah anda Perokok?</string>
+    <string name="radio_rokokYes">IYA</string>
+    <string name="radio_rokokNo">TIDAK</string>
+    <string name="label_kelamin">JENIS KELAMIN</string>
+    <string name="label_usia">USIA</string>
+    <string name="text_kelamin">laki/perempuan</string>
+    <string name="text_usia">0-200 tahun</string>
+    <string name="text_tensi">Masukkan Tekanan Darah</string>
+    <string name="button_hasil">LIHAT HASIL</string>
+    <string name="label_kolesterol">Jumlah kolesterol?</string>
 </resources>
