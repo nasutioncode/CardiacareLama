@@ -1,13 +1,7 @@
 <resources>
     <string name="app_name">Cardiacare</string>
 
-    <string-array name="labels_kolesterol">
-        <item>4 = 154,44 mg/dL</item>
-        <item>5 = 193,05 mg/dL</item>
-        <item>6 = 231,66 mg/dL</item>
-        <item>7 = 270,27 mg/dL</item>
-        <item>8 = 308,88 mg/dL</item>
-    </string-array>
+
 
     <string name="title_activity_fullscreen">FullscreenActivity</string>
     <string name="dummy_button">Dummy Button</string>
@@ -26,6 +20,22 @@
     <string name="text_kelamin">laki/perempuan</string>
     <string name="text_usia">0-200 tahun</string>
     <string name="text_tensi">Masukkan Tekanan Darah</string>
-    <string name="button_hasil">LIHAT HASIL</string>
     <string name="label_kolesterol">Jumlah kolesterol?</string>
+    <string-array name="labels_kolesterol">
+        <item>4 = 154,44 mg/dL</item>
+        <item>5 = 193,05 mg/dL</item>
+        <item>6 = 231,66 mg/dL</item>
+        <item>7 = 270,27 mg/dL</item>
+        <item>8 = 308,88 mg/dL</item>
+    </string-array>
+    <string name="button_hasil">LIHAT HASIL</string>
+
+    <string name="title_hasilJantung">Hasil Cek Potensi Risiko Jantung</string>
+    <string name="date_hasilJantung">DD/MM/YYYY</string>
+    <string name="label_hasilRisiko">Tingkat Risiko Terkena Jantung</string>
+    <string name="text_hasilRisiko"><![CDATA[< 10]]></string>
+    <string name="label_hasilPenjelasan1">Tingkat risiko terkena penyakit jantung anda memasuki kategori</string>
+    <string name="text_hasilPenjelasan">sangat baik.</string>
+    <string name="label_hasilPenjelasan2">Klik detail untuk mengetahui lebih lanjut.</string>
+    <string name="button_hasilDetail">Detail</string>
 </resources>
