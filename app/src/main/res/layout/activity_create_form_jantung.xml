@@ -194,14 +194,16 @@
 
             <EditText
                 android:id="@+id/text_tensi"
-                android:layout_width="920px"
-                android:layout_height="62dp"
+                android:layout_width="wrap_content"
+                android:layout_height="47dp"
                 android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
                 android:layout_marginTop="20dp"
                 android:background="@drawable/username"
                 android:ems="12"
                 android:hint="@string/text_tensi"
                 android:inputType="number"
+                android:focusable="false"
                 android:paddingLeft="60dp" />
 
             <TextView
@@ -223,9 +225,10 @@
 
             <Button
                 android:id="@+id/button_hasil"
-                android:layout_width="880px"
+                android:layout_width="match_parent"
                 android:layout_height="52dp"
-                android:layout_marginLeft="37dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
                 android:layout_marginTop="35dp"
                 android:layout_marginBottom="10dp"
                 android:background="@drawable/btn_rounded"
