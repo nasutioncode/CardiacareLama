@@ -199,7 +199,7 @@
                 android:layout_marginLeft="25dp"
                 android:layout_marginRight="25dp"
                 android:layout_marginTop="20dp"
-                android:background="@drawable/username"
+                android:background="@drawable/emailregis"
                 android:ems="12"
                 android:hint="@string/text_tensi"
                 android:inputType="number"
@@ -238,7 +238,5 @@
                 android:onClick="showAlert"/>
 
         </LinearLayout>
-
     </ScrollView>
-
 </RelativeLayout>
